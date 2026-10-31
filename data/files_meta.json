@@ -1,0 +1,22 @@
+[
+  {
+    "id": "file_welcome_guide",
+    "originalName": "Welcome_to_LocalDrop.txt",
+    "size": 711,
+    "mimeType": "text/plain",
+    "uploadedAt": "2026-10-30T01:59:53.758Z",
+    "uploaderId": "host_system",
+    "uploaderDevice": "LocalDrop PC Host",
+    "isVcard": false
+  },
+  {
+    "id": "file_sample_contacts",
+    "originalName": "Sample_Team_Contacts.vcf",
+    "size": 544,
+    "mimeType": "text/vcard",
+    "uploadedAt": "2026-10-30T02:59:53.758Z",
+    "uploaderId": "host_system",
+    "uploaderDevice": "LocalDrop PC Host",
+    "isVcard": true
+  }
+]

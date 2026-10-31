@@ -1,0 +1,16 @@
+[project]
+name = "localdrop"
+version = "1.0.0"
+description = "Browser-based local-network file-transfer application"
+authors = [{ name = "LocalDrop Team" }]
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.28.0",
+    "python-multipart>=0.0.9",
+    "pydantic>=2.6.0",
+    "qrcode[pil]>=7.4.2",
+    "vobject>=0.9.6.1",
+    "httpx>=0.27.0",
+    "pytest>=8.0.0"
+]
+requires-python = ">=3.10"

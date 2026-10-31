@@ -1,0 +1,6 @@
+{
+  "name": "LocalDrop - LAN File Transfer",
+  "description": "Browser-based local network file transfer application with PC host controls, QR pairing, responsive mobile UI, and secure storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
